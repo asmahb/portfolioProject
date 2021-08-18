@@ -1,0 +1,56 @@
+body{
+    background-color: #DCCCA3;
+}
+#secondHead{
+    font-family: 'Luckiest Guy', cursive;
+    color:#FDE2FF;
+    text-align: center;
+}
+#name{
+    font-family: 'Josefin Slab', serif;
+    color:#FDE2FF;
+    text-align: center;
+    font-weight: bolder;
+}
+#picture{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+.firstPage{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color:gray;
+    font-weight: bolder;
+}
+.openingStatement{
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    padding:20px;
+    margin:20px;
+}
+.button{
+    text-align: center;
+}
+#heading{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color:#6D454C;
+    text-decoration: underline;
+}
+#miniHead{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 30px;
+    color:#B98EA7;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-left: 50px;
+}
+.list{
+   padding-left: 50px;
+}
+.listTwo{
+    padding-left: 50px;
+}
